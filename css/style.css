@@ -46,8 +46,8 @@ Table of Contents:
 /*----- Fonts -----*/
 @import url(http://fonts.googleapis.com/css?family=Exo:400,700,800,900);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
-@import 'https://masdansuryop.github.io/agreefresh/css/simple-line-icons.css';
-@import 'https://masdansuryop.github.io/agreefresh/css/ionicons.min.css';
+@import 'simple-line-icons.css';
+@import 'ionicons.min.css';
 
 /*----- General ----*/
 html,
